@@ -7,10 +7,11 @@ A two player offline game created with flutter.
 
 This is how the screen looks at the start. 
 
-![App image 2](https://drive.google.com/uc?export=view&id=10xvR7LEtjVC2alhXzrP5g5PDoth9JkGF)
+<img src="https://drive.google.com/uc?export=view&id=10xvR7LEtjVC2alhXzrP5g5PDoth9JkGF" height="350" width="170">
 
 In midway between the game.
 
-![App image 3](https://drive.google.com/uc?export=view&id=10nOQE29uTZ6ccIVUnaVoFtuPJRsxv0G8)
+
+<img src="https://drive.google.com/uc?export=view&id=10nOQE29uTZ6ccIVUnaVoFtuPJRsxv0G8" height="350" width="170">
 
 And if one player wins the game.
