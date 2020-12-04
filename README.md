@@ -1,16 +1,17 @@
-# tic_tac
+# Tic Tac Toe
 
-A new Flutter project.
+A two player offline game created with flutter.
 
-## Getting Started
+# snapshots
 
-This project is a starting point for a Flutter application.
+![App image 1](https://drive.google.com/file/d/10zIT6G8FZN53Dw3OoRLQgFBASDVcCE11/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+This is how the screen looks at the start. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![App image 2](https://drive.google.com/file/d/10xvR7LEtjVC2alhXzrP5g5PDoth9JkGF/view?usp=sharing)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In midway between the game.
+
+![App image 3](https://drive.google.com/file/d/10nOQE29uTZ6ccIVUnaVoFtuPJRsxv0G8/view?usp=sharing)
+
+And if one player wins the game.
