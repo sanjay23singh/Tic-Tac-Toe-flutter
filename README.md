@@ -3,8 +3,7 @@
 A two player offline game created with flutter.
 
 # snapshots
-
-![App image 1](https://drive.google.com/uc?export=view&id=10zIT6G8FZN53Dw3OoRLQgFBASDVcCE11)
+<img src="https://drive.google.com/uc?export=view&id=10zIT6G8FZN53Dw3OoRLQgFBASDVcCE11" height="350" width="170">
 
 This is how the screen looks at the start. 
 
